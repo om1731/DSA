@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
