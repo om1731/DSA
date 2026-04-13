@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/om1731/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/om1731/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
