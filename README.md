@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/om1731/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1534-count-good-triplets](https://github.com/om1731/DSA/tree/master/1534-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/om1731/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/om1731/DSA/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/om1731/DSA/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
