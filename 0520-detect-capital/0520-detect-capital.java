@@ -1,23 +1,12 @@
 class Solution {
-    boolean allcapital(String word){
+    boolean detectCapitalUse(String word){
+        int countcapital=0;
         for(char ch:word.toCharArray()){
-            if(ch<'A'|| ch>'Z')
-                return false;
-            }
-            return true;
+            if(Character.isUpperCase(ch))
+            countcapital++;
         }
-    
-    boolean allsmall(String word){
-        for(char ch:word.toCharArray()){
-            if(ch<'a'|| ch>'z')
-                return false;
-            }
-            return true;
-        }
-    public boolean detectCapitalUse(String word) {
-        if(allcapital(word)|| allsmall(word)|| allsmall(word.substring(1))){
-            return true;
-        }
+        if(countcapital==0|| countcapital==word.length()|| (countcapital==1&& Character.isUpperCase(word.charAt(0))))
+        return true;
         return false;
-    }
-}
+    }}
+            
