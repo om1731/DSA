@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/om1731/DSA/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/om1731/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/om1731/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3093-longest-common-suffix-queries](https://github.com/om1731/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/om1731/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3093-longest-common-suffix-queries](https://github.com/om1731/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/om1731/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/om1731/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/om1731/DSA/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
