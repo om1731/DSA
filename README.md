@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/om1731/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/om1731/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
 | [0454-4sum-ii](https://github.com/om1731/DSA/tree/master/0454-4sum-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/om1731/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om1731/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
