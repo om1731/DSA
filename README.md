@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/om1731/DSA/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/om1731/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/om1731/DSA/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/om1731/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/om1731/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/om1731/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -180,9 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/om1731/DSA/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om1731/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/om1731/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
