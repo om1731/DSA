@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/om1731/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om1731/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/om1731/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2951-find-the-peaks](https://github.com/om1731/DSA/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/om1731/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3093-longest-common-suffix-queries](https://github.com/om1731/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/om1731/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/om1731/DSA/tree/master/1534-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/om1731/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2951-find-the-peaks](https://github.com/om1731/DSA/tree/master/2951-find-the-peaks) |
 ## Dynamic Programming
 |  |
 | ------- |
