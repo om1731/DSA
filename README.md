@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/om1731/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1340-jump-game-v](https://github.com/om1731/DSA/tree/master/1340-jump-game-v) |
 | [1480-running-sum-of-1d-array](https://github.com/om1731/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/om1731/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1534-count-good-triplets](https://github.com/om1731/DSA/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/om1731/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/om1731/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/om1731/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/om1731/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/om1731/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/om1731/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/om1731/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/om1731/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/om1731/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
