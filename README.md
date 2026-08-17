@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/om1731/DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om1731/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/om1731/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/om1731/DSA/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/om1731/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
