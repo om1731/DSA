@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/om1731/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/om1731/DSA/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/om1731/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3093-longest-common-suffix-queries](https://github.com/om1731/DSA/tree/master/3093-longest-common-suffix-queries) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/om1731/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/om1731/DSA/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/om1731/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/om1731/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
