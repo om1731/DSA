@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/om1731/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/om1731/DSA/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/om1731/DSA/tree/master/0205-isomorphic-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/om1731/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/om1731/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/om1731/DSA/tree/master/0205-isomorphic-strings) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/om1731/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/om1731/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/om1731/DSA/tree/master/0048-rotate-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/om1731/DSA/tree/master/2965-find-missing-and-repeated-values) |
