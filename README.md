@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/om1731/DSA/tree/master/1340-jump-game-v) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/om1731/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/om1731/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/om1731/DSA/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/om1731/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/om1731/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/om1731/DSA/tree/master/0454-4sum-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/om1731/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2965-find-missing-and-repeated-values](https://github.com/om1731/DSA/tree/master/2965-find-missing-and-repeated-values) |
