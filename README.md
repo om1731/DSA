@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/om1731/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/om1731/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om1731/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/om1731/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/om1731/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/om1731/DSA/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/om1731/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/om1731/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/om1731/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/om1731/DSA/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/om1731/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/om1731/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1340-jump-game-v](https://github.com/om1731/DSA/tree/master/1340-jump-game-v) |
