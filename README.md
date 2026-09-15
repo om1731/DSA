@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/om1731/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/om1731/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/om1731/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/om1731/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/om1731/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/om1731/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/om1731/DSA/tree/master/0013-roman-to-integer) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/om1731/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/om1731/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/om1731/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/om1731/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/om1731/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/om1731/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/om1731/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/om1731/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
