@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/om1731/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/om1731/DSA/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/om1731/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -273,11 +274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/om1731/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/om1731/DSA/tree/master/0130-surrounded-regions) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/om1731/DSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/om1731/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0130-surrounded-regions](https://github.com/om1731/DSA/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/om1731/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/om1731/DSA/tree/master/0867-transpose-matrix) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/om1731/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/om1731/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/om1731/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/om1731/DSA/tree/master/0733-flood-fill) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/om1731/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/om1731/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/om1731/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/om1731/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/om1731/DSA/tree/master/0543-diameter-of-binary-tree) |
