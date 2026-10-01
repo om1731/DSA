@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/om1731/DSA/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/om1731/DSA/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/om1731/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/om1731/DSA/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
 ## DP on Trees
 |  |
 | ------- |
@@ -370,8 +372,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/om1731/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/om1731/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
