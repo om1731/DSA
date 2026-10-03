@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/om1731/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/om1731/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/om1731/DSA/tree/master/1340-jump-game-v) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/om1731/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/om1731/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/om1731/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1534-count-good-triplets](https://github.com/om1731/DSA/tree/master/1534-count-good-triplets) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/om1731/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/om1731/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/om1731/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/om1731/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/om1731/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/om1731/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
 ## Trie
 |  |
