@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/om1731/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/om1731/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/om1731/DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/om1731/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/om1731/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/om1731/DSA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/om1731/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/om1731/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/om1731/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/om1731/DSA/tree/master/0860-lemonade-change) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/om1731/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/om1731/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/om1731/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/om1731/DSA/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/om1731/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/om1731/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
