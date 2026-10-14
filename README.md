@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/om1731/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/om1731/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/om1731/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/om1731/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/om1731/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om1731/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
