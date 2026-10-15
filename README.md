@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/om1731/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/om1731/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/om1731/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/om1731/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/om1731/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/om1731/DSA/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/om1731/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/om1731/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/om1731/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om1731/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/om1731/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/om1731/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/om1731/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/om1731/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/om1731/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/om1731/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/om1731/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/om1731/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/om1731/DSA/tree/master/0912-sort-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/om1731/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/om1731/DSA/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/om1731/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/om1731/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/om1731/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/om1731/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/om1731/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/om1731/DSA/tree/master/1871-jump-game-vii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/om1731/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
