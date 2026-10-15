@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/om1731/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/om1731/DSA/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/om1731/DSA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/om1731/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/om1731/DSA/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/om1731/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/om1731/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/om1731/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/om1731/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/om1731/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/om1731/DSA/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/om1731/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/om1731/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/om1731/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/om1731/DSA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/om1731/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/om1731/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/om1731/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1340-jump-game-v](https://github.com/om1731/DSA/tree/master/1340-jump-game-v) |
@@ -340,10 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/om1731/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/om1731/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/om1731/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/om1731/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
