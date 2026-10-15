@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/om1731/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/om1731/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/om1731/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/om1731/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/om1731/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/om1731/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/om1731/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/om1731/DSA/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/om1731/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/om1731/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/om1731/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/om1731/DSA/tree/master/0229-majority-element-ii) |
@@ -421,5 +423,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/om1731/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/om1731/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
