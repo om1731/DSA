@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/om1731/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/om1731/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/om1731/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/om1731/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/om1731/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/om1731/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1340-jump-game-v](https://github.com/om1731/DSA/tree/master/1340-jump-game-v) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/om1731/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/om1731/DSA/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/om1731/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/om1731/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String Matching
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/om1731/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/om1731/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/om1731/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/om1731/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
